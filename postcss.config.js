@@ -1,6 +1,2 @@
-export default {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
+// Configuração desativada em favor do CDN
+export default {}
