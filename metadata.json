@@ -1,0 +1,5 @@
+{
+  "name": "LocalTask - Lista de Tarefas",
+  "description": "Um aplicativo de gerenciamento de tarefas simples, rápido e offline que salva seus dados localmente.",
+  "requestFramePermissions": []
+}
